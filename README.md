@@ -2,71 +2,45 @@
 
 Olá, seja muito bem vindo ao meu Github. Sinta-se à vontade para explorar meus projetos públicos e conhecer um pouco das minhas habilitadas técnicas. Alguns projetos são experimentos, outros fazem parte do meu PDI e são estudos em andamento.<br><br>
 
-
-#### Minha experiência profissional
-___
+## :rocket: Minha experiência profissional
 
 Sou um profissional com mais de 10 anos de experiência em engenharia de software. Durante a minha jornada como profissional de tecnologia pude participar de projetos de tamanhos e complexidades variadas. Desenvolvi produtos para o mercado norte americano e europeu, atuei como Software Engineering Manager para a maior empresa de food delivery brasileira e continuo procurando aprender cada vez mais.  Minhas experiências mais relevantes estão voltadas para a liderança front end. Possuo conhecimento profundo de Angular, acompanhei a evolução do framework desde a versão beta. Assim que assumi meu primeiro cargo como líder de uma equipe multidisciplinar veio a necessidade de obter um conhecimento mais generalista, e desde então venho procurando absorver mais desses conhecimentos laterais.<br><br>
 
-
-#### Competências técnicas
-___
+## :white_check_mark: Competências técnicas
 
 + Análise e desenvolvimento de aplicações Web observando melhores práticas;
 + Liderança de equipes técnicas;
 + Implementação de métricas e realização de ajustes garantindo eficiência dos processos e efetividade do trabalho;
 + Participação de reuniões estratégicas, táticas e com stakeholders diversos.<br><br>
 
+## :white_check_mark: Tecnologias
+### Tecnologias já usadas no Frontend:
 
-#### Tecnologias utilizadas Frontend
-___
-  
-
-Linguagens: Javascript, Typescript Frameworks: Angular, Vuejs, NextJS
-
-Libraries: AngularJS, React, SailsJS, Jquery, JqueryUI
-
-Bibliotecas reativas: RXJS (event streaming)
-
-Marcadores: xHTML, HTML5
-
-Estilos: CSS3, SCSS, SASS
-
-UI Componentes: Angular Material, PrimeNG, Bootstrap
-
-Testes: Jasmine, Cypress, Percy 
-
-Monitoring: Amplitude, Bugsnag, Sentry
-
+Linguagens: Javascript, Typescript  
+Frameworks: Angular, Vuejs, NextJS  
+Libraries: AngularJS, React, SailsJS, Jquery, JqueryUI  
+Bibliotecas reativas: RXJS (event streaming)  
+Marcadores: xHTML, HTML5  
+Estilos: CSS3, SCSS, SASS  
+UI Componentes: Angular Material, PrimeNG, Bootstrap  
+Testes: Jasmine, Cypress, Percy  
+Monitoring: Amplitude, Bugsnag, Sentry  
 Outros: Cross browsing, performance, SEO
 
-<br><br>
+### Tecnologias já usadas no Backend:
 
-#### Tecnologias utilizadas Backend
-___
+Linguagens: Javascript, Typescript, Java  
+Frameworks: Express, Nestjs, SpringBoot, SailsJS  
+Runtimes: Nodejs  
+Databases: MongoDB, PostgreSQL, Firebase Realtime Database  
+ODM: Mongoose  
+Monitoring: New Relic  
+AWS: Lambda, S3  
 
-Linguagens: Javascript, Typescript, Java
+### Tecnologias utilizadas Devops
 
-Frameworks: Express, Nestjs, SpringBoot, SailsJS
-
-Runtimes: Nodejs
-
-Databases: MongoDB, PostgreSQL, Firebase Realtime Database 
-
-ODM: Mongoose
-
-Monitoring: New Relic
-
-AWS: Lambda, S3
-
-<br><br>
-
-#### Tecnologias utilizadas Devops
-___
 Git, Docker, Github Actions
 
-<br><br>
+## :white_check_mark: Outros conhecimentos
 
-####  Outros conhecimentos
-___
 Conceitos de Orientação a Objetos, Clean Architecture, SOLID

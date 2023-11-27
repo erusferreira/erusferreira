@@ -1,10 +1,10 @@
 ### Olá, bem-vindo ao meu Github 👋
 
-Olá, seja muito bem vindo ao meu Github. Sinta-se à vontade para explorar meus projetos públicos e conhecer um pouco das minhas habilitadas técnicas. Alguns projetos são experimentos, outros fazem parte do meu PDI e são estudos em andamento.<br><br>
+Olá, seja muito bem vindo ao meu Github. Sinta-se à vontade para explorar meus projetos públicos e conhecer um pouco das minhas habilitadas técnicas. Alguns projetos são experimentos, outros são estudos em andamento.<br><br>
 
 ## :rocket: Minha experiência profissional
 
-Sou um profissional com mais de 10 anos de experiência em engenharia de software. Durante a minha jornada como profissional de tecnologia pude participar de projetos de tamanhos e complexidades variadas. Desenvolvi produtos para o mercado norte americano e europeu, atuei como Software Engineering Manager para a maior empresa de food delivery brasileira e continuo procurando aprender cada vez mais.  Minhas experiências mais relevantes estão voltadas para a liderança front end. Possuo conhecimento profundo de Angular, acompanhei a evolução do framework desde a versão beta. Assim que assumi meu primeiro cargo como líder de uma equipe multidisciplinar veio a necessidade de obter um conhecimento mais generalista, e desde então venho procurando absorver mais desses conhecimentos laterais.<br><br>
+Sou um profissional com mais de 10 anos de experiência em engenharia de software. Durante a minha jornada como profissional de tecnologia pude participar de projetos de tamanhos e complexidades variadas. Desenvolvi produtos para o mercado norte americano e europeu, atuei como Software Engineering Manager para a maior empresa de food delivery brasileira e continuo procurando aprender cada vez mais.  Minhas experiências mais relevantes estão voltadas para a liderança front end. Possuo conhecimento profundo de Angular, acompanhei a evolução do framework desde a versão beta. Assim que assumi meu primeiro cargo como líder de uma equipe multidisciplinar veio a necessidade de obter um conhecimento mais generalista, e desde então venho me dedicando a isso.<br><br>
 
 ## :white_check_mark: Competências técnicas
 

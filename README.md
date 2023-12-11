@@ -18,10 +18,10 @@ Sou um profissional com mais de 10 anos de experiência em engenharia de softwar
 
 Linguagens: Javascript, Typescript  
 Frameworks: Angular, Vuejs, NextJS  
-Libraries: AngularJS, React, Styled Components, SailsJS, Jquery, Axios, Jotai
+Libraries: AngularJS, React, Styled Components, SailsJS, Jquery, Axios, Jotai  
 Bibliotecas reativas: RXJS (event streaming)  
 Marcadores: xHTML, HTML5  
-Estilos: CSS3, SCSS, SASS
+Estilos: CSS3, SCSS, SASS  
 UI Componentes: Angular Material, PrimeNG, Bootstrap, Tailwind CSS  
 Testes: Jasmine, Cypress, Percy  
 Monitoring: Amplitude, Bugsnag, Sentry  
@@ -30,14 +30,14 @@ Outros: Microfrontends, Cross browsing, performance, SEO
 ### Tecnologias já usadas no Backend:
 
 Linguagens: Javascript, Typescript, Java  
-Frameworks: Express, Nestjs, SpringBoot, SailsJS
-Libraries: Tsyringe, Jsonwebtoken, Pino
+Frameworks: Express, Nestjs, SpringBoot, SailsJS  
+Libraries: Tsyringe, Jsonwebtoken, Pino  
 Runtimes: Nodejs  
 Databases: MongoDB, PostgreSQL, Firebase Realtime Database  
 ODM: Mongoose  
 Monitoring: New Relic  
 AWS: Lambda, S3  
-Event Streaming: Apache Kafka
+Event Streaming: Apache Kafka  
 
 ### Tecnologias utilizadas Devops
 

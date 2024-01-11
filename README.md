@@ -36,7 +36,7 @@ Runtimes: Nodejs
 Databases: MongoDB, PostgreSQL, Firebase Realtime Database  
 ODM: Mongoose  
 Monitoring: New Relic  
-AWS: Lambda, S3  
+Cloud: AWS
 Event Streaming: Apache Kafka  
 
 ### Tecnologias utilizadas Devops

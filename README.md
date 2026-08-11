@@ -1,15 +1,15 @@
-### Olá, bem-vindo ao meu Github 👋
+### Hello, welcome to my Github 👋
 
-Sinta-se à vontade para explorar meus projetos públicos e conhecer um pouco das minhas habilitadas técnicas.
+Feel free to explore my public projects and get to know a little about my technical skills.
 
-## :rocket: Minha experiência profissional
+## \:rocket: My professional experience
 
-Software Engineering Manager com mais de 15 anos de experiência em tecnologia, sólida trajetória em engenharia de software, liderança e desenvolvimento de times de alta performance e entrega de soluções robustas e escaláveis. Durante a minha jornada como profissional de tecnologia pude participar de projetos desafiadores em ambientes complexos. Desenvolvi produtos para o mercado norte americano e europeu, atuei como Software Engineering Manager para a maior empresa de food delivery brasileira, o Ifood. Minha trajetória começou no desenvolvimento Front-End até me tornar especialista e evoluiu para uma atuação mais generalista.
-Acredito que bons produtos são construídos por times que trabalham em um ambiente de confiança, autonomia, segurança e colaboração, combinando excelência técnica com foco real no impacto para o negócio e para os usuários.
+Software Engineering Manager with over 15 years of experience in technology, with a strong background in software engineering, leadership, high-performing team development, and delivering robust and scalable solutions. Throughout my career in technology, I have had the opportunity to work on challenging projects in complex environments. I have built products for the North American and European markets and worked as a Software Engineering Manager at Brazil's largest food delivery company, iFood. My career started in Front-End development, where I became a specialist, and later evolved into a more generalist engineering role.
+I believe great products are built by teams that work in an environment of trust, autonomy, psychological safety, and collaboration, combining technical excellence with a strong focus on business and user impact.
 
-## :white_check_mark: O que você encontrará aqui
+## \:white\_check\_mark: What you'll find here
 
-Alguns projetos são experimentos, outros são estudos em andamento relacionados principalmente a:
+Some projects are experiments, while others are ongoing studies mainly related to:
 
 - Software Architecture
 - Web & Backend Development
@@ -19,6 +19,6 @@ Alguns projetos são experimentos, outros são estudos em andamento relacionados
 - Developer Experience & Productivity
 - AI-assisted Software Engineering
 
-## 
+##
 
 **Keep learning. Keep building. Keep improving.**
